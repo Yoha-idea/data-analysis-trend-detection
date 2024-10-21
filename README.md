@@ -1,0 +1,1 @@
+# data-analysis-trend-detection
